@@ -19,6 +19,7 @@ img {
     margin: 0 auto;
     padding: 0 16px;
     background-color: #0f16d9;
+    padding: 70px 300px;
 }
 .header {
     display: flex;
